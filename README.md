@@ -6,3 +6,5 @@ we cloned from Jose github repository
 CD to Rotten_tomatoes
 git switch README - given
 code README.md 
+
+I am just here to annoy you and learn how to pull and push the project from the local directory to respository. 
